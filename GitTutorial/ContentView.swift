@@ -14,6 +14,9 @@ struct ContentView: View {
                 .padding()
             
             Text("Hi")
+            
+            Text(
+            "add this")
         }
     }
 }
